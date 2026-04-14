@@ -1,0 +1,4 @@
+company,working_capital,total_assets,retained_earnings,ebit,market_value_equity,total_liabilities,sales
+A,500,2000,300,200,1500,1000,2500
+B,100,1500,100,50,800,1200,1800
+C,-200,1800,-100,-50,500,1600,1200

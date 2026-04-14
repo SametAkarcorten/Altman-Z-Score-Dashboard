@@ -1,0 +1,4 @@
+matplotlib
+marimo
+pandas
+plotly
